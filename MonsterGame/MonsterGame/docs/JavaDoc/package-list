@@ -1,0 +1,9 @@
+com.oreilly.demo.android.pa.uidemo
+com.oreilly.demo.android.pa.uidemo.Test
+com.oreilly.demo.android.pa.uidemo.common
+com.oreilly.demo.android.pa.uidemo.controller
+com.oreilly.demo.android.pa.uidemo.model
+com.oreilly.demo.android.pa.uidemo.model.clock
+com.oreilly.demo.android.pa.uidemo.model.state
+com.oreilly.demo.android.pa.uidemo.model.time
+com.oreilly.demo.android.pa.uidemo.view
